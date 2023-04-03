@@ -1,4 +1,4 @@
-DROPBEAR_RELEASE = 2020.81
+DROPBEAR_RELEASE = 2022.83
 DROPBEAR_TAR = dropbear-$(DROPBEAR_RELEASE).tar.bz2
 DROPBEAR_URL = https://matt.ucc.asn.au/dropbear/releases/$(DROPBEAR_TAR)
 DROPBEAR_SRC = build/dropbear-$(DROPBEAR_RELEASE)
